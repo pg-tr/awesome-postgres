@@ -90,7 +90,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL.
 * [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
-* [pg\_shard](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
+* [pg\_shard](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.***deprecated***
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Extension to offload CPU intensive workloads to GPU.
 * [pgxn](http://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
