@@ -72,6 +72,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
+* [Greenplum Database](http://greenplum.org/) - The World's First Open Source Massively Parallel Data Warehouse.
+* [PipelineDB](https://www.pipelinedb.com/) - The Streaming SQL Database.
 
 ### Monitoring
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
