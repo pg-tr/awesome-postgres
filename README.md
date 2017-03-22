@@ -59,21 +59,20 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [Warp](http://warp.one/) - macOS desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software).
 * [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is a useful and reliable tool designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL. 
 
-### Distributions
+### Distributions and Server
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
 * [Postgresql Installers](https://www.bigsql.org/postgresql/installers.jsp) - Downloadable binaries tested to run on Centos 6+, Ubuntu 12.04+, OSX 10.9+, Windows 7+ and Windows Server 2008+.
 * [Postgresql Installers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) - Download the installer certified by EnterpriseDB for all supported PostgreSQL versions.
+* [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
+* [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
+* [Greenplum Database](http://greenplum.org/) - The World's First Open Source Massively Parallel Data Warehouse.
+* [PipelineDB](https://www.pipelinedb.com/) - The Streaming SQL Database.
+* [BigSQL](https://www.bigsql.org/) -  Postgresql by BigSQL. The most complete and developer-friendly distribution of the world's most advanced open source database.
 
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
-
-### Server
-* [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
-* [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
-* [Greenplum Database](http://greenplum.org/) - The World's First Open Source Massively Parallel Data Warehouse.
-* [PipelineDB](https://www.pipelinedb.com/) - The Streaming SQL Database.
 
 ### Monitoring
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
