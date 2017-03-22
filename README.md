@@ -6,7 +6,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [High-Availability](#high-availability)
 - [Backups](#backups)
 - [GUI](#gui)
-- [Distributions and Server](#distributions)
+- [Distributions and Server](#distributions-and-server)
 - [CLI](#cli)
 - [Monitoring](#monitoring)
 - [Extensions](#extensions)
