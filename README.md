@@ -10,6 +10,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [CLI](#cli)
 - [Monitoring](#monitoring)
 - [Extensions](#extensions)
+- [Migration tools](#migration-tools)
 - [Optimization](#optimization)
 - [Utilities](#utilities)
 - [Language bindings](#language-bindings)
@@ -95,6 +96,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
+### Migration Tools
+* [sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible.
+* [db2topg](https://github.com/dalibo/db2topg) - Automated tool for DB2 migration to PostgreSQL, ala ora2pg.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
