@@ -99,11 +99,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 ### Migration Tools
 * [sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible.
 * [db2topg](https://github.com/dalibo/db2topg) - Automated tool for DB2 migration to PostgreSQL, ala ora2pg.
+* [pgtsql](https://bitbucket.org/openscg/pgtsql) - Extension that provides a PostgreSQL procedural language that implements the Transact-SQL language.
+* [ora2pg](http://ora2pg.darold.net/) - Moves Oracle and MySQL database to PostgreSQL.
+
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
-* [pgtune](http://pgtune.leopard.in.ua/) - Online version of PostgreSQL configuration wizard.
 * [pgconfig.org](https://www.pgconfig.org/) - PostgreSQL Online Configuration Tool (also based on pgtune).
 * [PoWA](http://dalibo.github.io/powa/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
 
