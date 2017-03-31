@@ -161,6 +161,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [Michael Paquier's blog](http://paquier.xyz/)
 * [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
+* [Revolution Systems](http://www.revsys.com/blog/tags/postgresql/) - We are performance tuners, Django and PostgreSQL experts, infrastructure and scaling architects.
+
 
 ### Articles
 
