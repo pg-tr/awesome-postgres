@@ -133,6 +133,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 * [ZSON](https://github.com/afiskon/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replication system.
+* [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
