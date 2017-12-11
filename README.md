@@ -134,6 +134,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [ZSON](https://github.com/afiskon/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replication system.
 * [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
+* [padnag](https://padnag.io/) - PostgreSQL roles from Active Directory or LDAP users and groups
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
