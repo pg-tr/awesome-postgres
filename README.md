@@ -20,6 +20,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Newsletters](#newsletters)
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 - [Professional Support](#professional-support)
+- [Who use PostgreSQL?][#uses]
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -148,6 +149,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 
 ### Tutorials
+* [The Internals of PostgreSQL](http://www.interdb.jp/pg/) - for database administrators and system developers
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket.
 * [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
@@ -164,6 +166,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 * [Revolution Systems](http://www.revsys.com/blog/tags/postgresql/) - We are performance tuners, Django and PostgreSQL experts, infrastructure and scaling architects.
+* [Severalnines Database Blog](https://severalnines.com/database-blog)
+* [Percona Blog](https://www.percona.com/blog/category/postgresql/)
 
 
 ### Articles
@@ -182,7 +186,16 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 * [Azure Postgres](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL
+[Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/)
+[Google Cloud SQL](https://cloud.google.com/sql#section-9)
+
 
 ### Professional Support
 
-* [2ndQuadrant Ltd] (http://www.2ndquadrant.com/) - Provides both support and hosting.
+* [Complete List](https://www.postgresql.org/support/professional_support/)
+
+### Who Use PostgreSQL?
+* [EnterpriseDB Customers](https://www.enterprisedb.com)
+* [Cybertech](https://www.cybertec-postgresql.com/en/postgresql-overview/solutions-who-uses-postgresql/) 
+* [2ndQuadrant](https://www.2ndquadrant.com/en/postgresql/who-uses-postgresql/)
+
