@@ -155,6 +155,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
+* [PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
@@ -198,4 +199,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [EnterpriseDB Customers](https://www.enterprisedb.com)
 * [Cybertech](https://www.cybertec-postgresql.com/en/postgresql-overview/solutions-who-uses-postgresql/) 
 * [2ndQuadrant](https://www.2ndquadrant.com/en/postgresql/who-uses-postgresql/)
+* [Learn PostgreSQL](https://github.com/dwyl/learn-postgresql/issues/31)
 
+### PostgreSQL Forks
+* [PostgreSQL Derivative Databases](https://wiki.postgresql.org/wiki/PostgreSQL_derived_databases)
