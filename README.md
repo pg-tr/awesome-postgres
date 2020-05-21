@@ -104,12 +104,15 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [pgtsql](https://bitbucket.org/openscg/pgtsql) - Extension that provides a PostgreSQL procedural language that implements the Transact-SQL language.
 * [ora2pg](http://ora2pg.darold.net/) - Moves Oracle and MySQL database to PostgreSQL.
 
-
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
 * [pgconfig.org](https://www.pgconfig.org/) - PostgreSQL Online Configuration Tool (also based on pgtune).
 * [PoWA](http://dalibo.github.io/powa/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
+* [Dalibo Explain Visualizer](https://dalibo.github.io/pev2/#/)
+* [Tatiyants Explain Visualizer](http://tatiyants.com/pev/#/plans)
+* [Depez Explain Visualizer](https://explain.depesz.com)
+
 
 ### Utilities
 * [apgdiff](http://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
