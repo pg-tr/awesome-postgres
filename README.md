@@ -159,6 +159,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 * [PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
+* [Katacoda Scenarios](https://www.katacoda.com/search?q=postgresql&hPP=12&idx=scenarios&p=0&is_v=1) - Several hands-on scenarios
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
