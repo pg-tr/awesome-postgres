@@ -109,9 +109,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
 * [pgconfig.org](https://www.pgconfig.org/) - PostgreSQL Online Configuration Tool (also based on pgtune).
 * [PoWA](http://dalibo.github.io/powa/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
-* [Dalibo Explain Visualizer](https://dalibo.github.io/pev2/#/)
-* [Tatiyants Explain Visualizer](http://tatiyants.com/pev/#/plans)
-* [Depez Explain Visualizer](https://explain.depesz.com)
+* [Dalibo Explain Visualizer](https://explain.dalibo.com) - This service lets you analyze, visualize and share Postgres Query Plans. It will compute and highlight the most important information to make them easier to understand.
+* [Tatiyants Explain Visualizer](http://tatiyants.com/pev/#/plans) - Postgres Explain Visualizer (dev) is designed to make EXPLAIN output easier to grok. It creates a graphical representation of the plan. 
+* [Depez Explain Visualizer](https://explain.depesz.com) - PostgreSQL's explain analyze made readable
 
 
 ### Utilities
