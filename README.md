@@ -80,10 +80,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
 * [Check\_postgres](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases.
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Comprehensive PostgreSQL monitoring module for Zabbix.
+* [mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL Monitoring agent for zabbix. Also it can be used as report, tune and cli.
 * [Pome](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
 * [pg\_view](https://github.com/zalando/pg_view) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
-* [mamonsu](https://github.com/postgrespro/mamonsu) - PostgreSQL Monitoring agent for zabbix. Also it can be used as report, tune and cli.
+* [zabbix](https://www.zabbix.com/integrations/postgresql#tab:official2) - Zabbic Template for PostgreSQL Agent 2, Native Postges Support. 
 
 ### Extensions
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
