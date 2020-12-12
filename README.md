@@ -20,7 +20,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Newsletters](#newsletters)
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 - [Professional Support](#professional-support)
-- [Who use PostgreSQL?](#who-uses-postgresql?)
+- [Who use PostgreSQL?](#who-use-postgresql)
 - [PostgreSQL Forks](#postgresql-forks)
 
 ### High-Availability
@@ -100,11 +100,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
+
 ### Migration Tools
 * [sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible.
 * [db2topg](https://github.com/dalibo/db2topg) - Automated tool for DB2 migration to PostgreSQL, ala ora2pg.
 * [pgtsql](https://bitbucket.org/openscg/pgtsql) - Extension that provides a PostgreSQL procedural language that implements the Transact-SQL language.
 * [ora2pg](http://ora2pg.darold.net/) - Moves Oracle and MySQL database to PostgreSQL.
+* [pgloader](https://pgloader.io/) - Migration Tool to PostgreSQ from MySQL, SQLite, MS SQL Server®.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
