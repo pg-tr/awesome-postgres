@@ -20,7 +20,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Newsletters](#newsletters)
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 - [Professional Support](#professional-support)
-- [Who use PostgreSQL?][#uses]
+- [Who use PostgreSQL?](#who-uses-postgresql?)
+- [PostgreSQL Forks](#postgresql-forks)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -161,6 +162,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 * [PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [Katacoda Scenarios](https://www.katacoda.com/search?q=postgresql&hPP=12&idx=scenarios&p=0&is_v=1) - Several hands-on scenarios
+* [PgPedia](https://pgpedia.info/index.html) - An encyclopedia (work-in-progress) of things PostgreSQL-related. And some hacks.
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
@@ -177,12 +179,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 
 
 ### Articles
-
 * [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 * [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
+* [SQL Server vs MySQL vs PostgreSQL Delete Performance Comparison](https://www.mssqltips.com/sqlservertip/6607/delete-sql-performance-for-sql-server-mysql-and-postgresql/)
 
 ### Newsletters
-
 * [Postgres Weekly](http://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
 
 ### PaaS *(PostgreSQL as a Service)*
@@ -197,7 +198,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 
 
 ### Professional Support
-
 * [Complete List](https://www.postgresql.org/support/professional_support/)
 
 ### Who Use PostgreSQL?
