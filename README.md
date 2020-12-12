@@ -20,7 +20,17 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Newsletters](#newsletters)
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 - [Professional Support](#professional-support)
-- [Who use PostgreSQL?][#uses]
+- [Who use PostgreSQL?](#who-use-postgresql)
+- [PostgreSQL Forks](#postgresql-forks)
+
+Contributing
+=======================================================================
+
+Contributions are most welcome!
+
+This list is just getting started, please contribute to make it super awesome.
+
+Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgres/blob/master/CONTRIBUTING.md).
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -99,11 +109,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
+
 ### Migration Tools
 * [sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible.
 * [db2topg](https://github.com/dalibo/db2topg) - Automated tool for DB2 migration to PostgreSQL, ala ora2pg.
 * [pgtsql](https://bitbucket.org/openscg/pgtsql) - Extension that provides a PostgreSQL procedural language that implements the Transact-SQL language.
 * [ora2pg](http://ora2pg.darold.net/) - Moves Oracle and MySQL database to PostgreSQL.
+* [pgloader](https://pgloader.io/) - Migration Tool to PostgreSQ from MySQL, SQLite, MS SQL Server®.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
@@ -161,6 +173,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 * [PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [Katacoda Scenarios](https://www.katacoda.com/search?q=postgresql&hPP=12&idx=scenarios&p=0&is_v=1) - Several hands-on scenarios
+* [PgPedia](https://pgpedia.info/index.html) - An encyclopedia (work-in-progress) of things PostgreSQL-related. And some hacks.
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
@@ -174,15 +187,15 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 * [Revolution Systems](http://www.revsys.com/blog/tags/postgresql/) - We are performance tuners, Django and PostgreSQL experts, infrastructure and scaling architects.
 * [Severalnines Database Blog](https://severalnines.com/database-blog)
 * [Percona Blog](https://www.percona.com/blog/category/postgresql/)
+* [Cybertec Blog](https://www.cybertec-postgresql.com/en/blog/) - Get the newest tricks and useful tips about the world of PostgreSQL and Data Science! Our authors and technicians share their knowledge to keep you going with your data.
 
 
 ### Articles
-
 * [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 * [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
+* [SQL Server vs MySQL vs PostgreSQL Delete Performance Comparison](https://www.mssqltips.com/sqlservertip/6607/delete-sql-performance-for-sql-server-mysql-and-postgresql/)
 
 ### Newsletters
-
 * [Postgres Weekly](http://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
 
 ### PaaS *(PostgreSQL as a Service)*
@@ -197,7 +210,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 
 
 ### Professional Support
-
 * [Complete List](https://www.postgresql.org/support/professional_support/)
 
 ### Who Use PostgreSQL?
