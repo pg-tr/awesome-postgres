@@ -23,6 +23,15 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Who use PostgreSQL?](#who-use-postgresql)
 - [PostgreSQL Forks](#postgresql-forks)
 
+Contributing
+=======================================================================
+
+Contributions are most welcome!
+
+This list is just getting started, please contribute to make it super awesome.
+
+Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgres/CONTRIBUTING.md).
+
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 * [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
