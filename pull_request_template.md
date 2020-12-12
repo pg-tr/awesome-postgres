@@ -12,3 +12,7 @@
 ## Our Goal 
 
 Our goal is to provide a list of useful PostgreSQL projects backed by PostgreSQL and it's community members and companies.
+
+## Submitting a patch
+
+Please read [Submitting a Patch](https://wiki.postgresql.org/wiki/Submitting_a_Patch)
