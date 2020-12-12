@@ -22,6 +22,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Professional Support](#professional-support)
 - [Who use PostgreSQL?](#who-use-postgresql)
 - [PostgreSQL Forks](#postgresql-forks)
+- [PostgreSQL Code Contribution](#postgresql-code-contribution)
 
 Contributing
 =======================================================================
@@ -220,3 +221,8 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 
 ### PostgreSQL Forks
 * [PostgreSQL Derivative Databases](https://wiki.postgresql.org/wiki/PostgreSQL_derived_databases)
+
+### PostgreSQL Code Contribution
+
+* [PostgreSQL Git Organization](https://git.postgresql.org/gitweb/)
+* [Submitting a Patch](https://wiki.postgresql.org/wiki/Submitting_a_Patch)
