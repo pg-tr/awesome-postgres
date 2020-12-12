@@ -30,7 +30,7 @@ Contributions are most welcome!
 
 This list is just getting started, please contribute to make it super awesome.
 
-Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgres/CONTRIBUTING.md).
+Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgres/blob/master/CONTRIBUTING.md).
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
