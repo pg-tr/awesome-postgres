@@ -152,6 +152,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [ZSON](https://github.com/afiskon/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replication system.
 * [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
+* [pgagroal](https://agroal.github.io/pgagroal/) -  High-performance connection pool for PostgreSQL 
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
