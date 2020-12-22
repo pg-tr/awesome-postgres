@@ -95,7 +95,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Pome](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
 * [pg\_view](https://github.com/zalando/pg_view) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
-* [zabbix](https://www.zabbix.com/integrations/postgresql#tab:official2) - Zabbic Template for PostgreSQL Agent 2, Native Postges Support. 
+* [zabbix](https://www.zabbix.com/integrations/postgresql#tab:official2) - Zabbix Template for PostgreSQL Agent 2
 
 ### Extensions
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
