@@ -96,6 +96,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [pg\_view](https://github.com/zalando/pg_view) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
 * [zabbix](https://www.zabbix.com/integrations/postgresql#tab:official2) - Zabbix Template for PostgreSQL Agent 2
+* [pg_bloat_check](https://github.com/keithf4/pg_bloat_check) - Provides a bloat report for PostgreSQL tables and/or indexes
 
 ### Extensions
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
