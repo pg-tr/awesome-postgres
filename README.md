@@ -70,7 +70,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [Warp](http://warp.one/) - macOS desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software).
-* [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is a useful and reliable tool designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL. 
+* [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is a useful and reliable tool designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL.
 
 ### Distributions and Server
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
@@ -95,7 +95,8 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Pome](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
 * [pg\_view](https://github.com/zalando/pg_view) - Open-source command-line tool that shows global system stats, per-partition information, memory stats and other information.
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - Run a benchmark test on PostgreSQL.
-* [zabbix](https://www.zabbix.com/integrations/postgresql#tab:official2) - Zabbic Template for PostgreSQL Agent 2, Native Postges Support. 
+* [zabbix](https://www.zabbix.com/integrations/postgresql#tab:official2) - Zabbix Template for PostgreSQL Agent 2
+* [pg_bloat_check](https://github.com/keithf4/pg_bloat_check) - Provides a bloat report for PostgreSQL tables and/or indexes
 
 ### Extensions
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
@@ -124,7 +125,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [pgconfig.org](https://www.pgconfig.org/) - PostgreSQL Online Configuration Tool (also based on pgtune).
 * [PoWA](http://dalibo.github.io/powa/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
 * [Dalibo Explain Visualizer](https://explain.dalibo.com) - This service lets you analyze, visualize and share Postgres Query Plans. It will compute and highlight the most important information to make them easier to understand.
-* [Tatiyants Explain Visualizer](http://tatiyants.com/pev/#/plans) - Postgres Explain Visualizer (dev) is designed to make EXPLAIN output easier to grok. It creates a graphical representation of the plan. 
+* [Tatiyants Explain Visualizer](http://tatiyants.com/pev/#/plans) - Postgres Explain Visualizer (dev) is designed to make EXPLAIN output easier to grok. It creates a graphical representation of the plan.
 * [Depez Explain Visualizer](https://explain.depesz.com) - PostgreSQL's explain analyze made readable
 
 
@@ -153,7 +154,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replication system.
 * [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
 * [pgagroal](https://agroal.github.io/pgagroal/) -  High-performance connection pool for PostgreSQL
-* [odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler 
+* [odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
@@ -217,7 +218,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 
 ### Who Use PostgreSQL?
 * [EnterpriseDB Customers](https://www.enterprisedb.com)
-* [Cybertech](https://www.cybertec-postgresql.com/en/postgresql-overview/solutions-who-uses-postgresql/) 
+* [Cybertech](https://www.cybertec-postgresql.com/en/postgresql-overview/solutions-who-uses-postgresql/)
 * [2ndQuadrant](https://www.2ndquadrant.com/en/postgresql/who-uses-postgresql/)
 * [Learn PostgreSQL](https://github.com/dwyl/learn-postgresql/issues/31)
 
