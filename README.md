@@ -23,6 +23,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Who use PostgreSQL?](#who-use-postgresql)
 - [PostgreSQL Forks](#postgresql-forks)
 - [PostgreSQL Code Contribution](#postgresql-code-contribution)
+- [PostgreSQL Editor Extensions](#postgresql-editor-extensions)
 
 Contributing
 =======================================================================
@@ -229,3 +230,8 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 
 * [PostgreSQL Git Organization](https://git.postgresql.org/gitweb/)
 * [Submitting a Patch](https://wiki.postgresql.org/wiki/Submitting_a_Patch)
+
+### PostgreSQL Editor Extensions
+
+* [PostgreSQL Management Tool VS Code Extension](https://github.com/Borvik/vscode-postgres)
+* [PostgreSQL VS Code Extension by Microsoft](https://github.com/Microsoft/vscode-postgresql)
