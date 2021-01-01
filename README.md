@@ -1,6 +1,15 @@
 # Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome PostgreSQL software, libraries, tools and resources, forked from dhamaniasad/awesome-postgres
 
+Contributing
+=======================================================================
+
+Contributions are most welcome!
+
+This list is just getting started, please contribute to make it super awesome.
+
+Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgres/CONTRIBUTING.md).
+
 ## Contents
 
 - [High-Availability](#high-availability)
@@ -22,15 +31,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Professional Support](#professional-support)
 - [Who use PostgreSQL?](#who-use-postgresql)
 - [PostgreSQL Forks](#postgresql-forks)
-
-Contributing
-=======================================================================
-
-Contributions are most welcome!
-
-This list is just getting started, please contribute to make it super awesome.
-
-Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgres/CONTRIBUTING.md).
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
