@@ -23,7 +23,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Who use PostgreSQL?](#who-use-postgresql)
 - [PostgreSQL Forks](#postgresql-forks)
 - [PostgreSQL Code Contribution](#postgresql-code-contribution)
-- [PostgreSQL Editor Extensions](#postgresql-editor-extensions)
+
 
 Contributing
 =======================================================================
