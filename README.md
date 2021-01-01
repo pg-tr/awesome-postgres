@@ -72,6 +72,8 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [Warp](http://warp.one/) - macOS desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software).
 * [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is a useful and reliable tool designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL.
+* [PostgreSQL Management Tool VS Code Extension](https://github.com/Borvik/vscode-postgres)
+* [PostgreSQL VS Code Extension by Microsoft](https://github.com/Microsoft/vscode-postgresql)
 
 ### Distributions and Server
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
@@ -231,7 +233,3 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [PostgreSQL Git Organization](https://git.postgresql.org/gitweb/)
 * [Submitting a Patch](https://wiki.postgresql.org/wiki/Submitting_a_Patch)
 
-### PostgreSQL Editor Extensions
-
-* [PostgreSQL Management Tool VS Code Extension](https://github.com/Borvik/vscode-postgres)
-* [PostgreSQL VS Code Extension by Microsoft](https://github.com/Microsoft/vscode-postgresql)
