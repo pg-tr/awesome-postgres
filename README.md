@@ -195,9 +195,9 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Severalnines Database Blog](https://severalnines.com/database-blog)
 * [Percona Blog](https://www.percona.com/blog/category/postgresql/)
 * [Cybertec Blog](https://www.cybertec-postgresql.com/en/blog/) - Get the newest tricks and useful tips about the world of PostgreSQL and Data Science! Our authors and technicians share their knowledge to keep you going with your data.
-* [PostgresPro](https://postgrespro.com/blog) - Postgrespro PostgreSQL company Blog
-* [PostgresPro](https://habr.com/en/company/postgrespro/) - Postgrespro PostgreSQL company Blog
-
+* [PostgresPro Blog](https://postgrespro.com/blog) - Postgrespro PostgreSQL company Blog
+* [PostgresPro Blog in Habr.com](https://habr.com/en/company/postgrespro/) - Postgrespro PostgreSQL company Blog in habr.com
+* [Crunchydata Blog](https://blog.crunchydata.com/blog) - Crunchydata company Blog
 
 ### Articles
 * [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
