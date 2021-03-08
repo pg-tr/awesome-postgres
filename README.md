@@ -195,6 +195,8 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Severalnines Database Blog](https://severalnines.com/database-blog)
 * [Percona Blog](https://www.percona.com/blog/category/postgresql/)
 * [Cybertec Blog](https://www.cybertec-postgresql.com/en/blog/) - Get the newest tricks and useful tips about the world of PostgreSQL and Data Science! Our authors and technicians share their knowledge to keep you going with your data.
+* [PostgresPro](https://postgrespro.com/blog) - Postgrespro PostgreSQL company Blog
+* [PostgresPro](https://habr.com/en/company/postgrespro/) - Postgrespro PostgreSQL company Blog
 
 
 ### Articles
