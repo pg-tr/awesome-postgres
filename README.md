@@ -114,6 +114,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
+* [pgpyml](https://github.com/Minoro/pgpyml) - (WIP) Use machine learning models written in Python inside PostgreSQL.
 
 ### Migration Tools
 * [sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible.
