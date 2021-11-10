@@ -194,6 +194,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 * [Revolution Systems](http://www.revsys.com/blog/tags/postgresql/) - We are performance tuners, Django and PostgreSQL experts, infrastructure and scaling architects.
+* [OnGress | Blog](https://ongres.com/blog/) - As the name says, the core of our business is Postgres databases.
 * [Severalnines Database Blog](https://severalnines.com/database-blog)
 * [Percona Blog](https://www.percona.com/blog/category/postgresql/)
 * [Cybertec Blog](https://www.cybertec-postgresql.com/en/blog/) - Get the newest tricks and useful tips about the world of PostgreSQL and Data Science! Our authors and technicians share their knowledge to keep you going with your data.
