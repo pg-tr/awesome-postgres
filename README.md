@@ -43,7 +43,6 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Slony-I](http://slony.info) - "Master to multiple slaves" replication system with cascading and failover.
 * [PAF](http://dalibo.github.io/PAF/) - PostgreSQL Automatic Failover High-Availibility for Postgres, based on Pacemaker and Corosync.
 * [Governer](https://github.com/compose/governor) - Runners to orchestrate a high-availability PostgreSQL.
-* [pgHA](https://bitbucket.org/openscg/pgha) - Failoverd is an automatic failover monitoring system for Postgres database systems. It is designed to work with pgBouncer installed on the application servers for simplicity.
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
