@@ -43,6 +43,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Slony-I](http://slony.info) - "Master to multiple slaves" replication system with cascading and failover.
 * [PAF](http://dalibo.github.io/PAF/) - PostgreSQL Automatic Failover High-Availibility for Postgres, based on Pacemaker and Corosync.
 * [Governer](https://github.com/compose/governor) - Runners to orchestrate a high-availability PostgreSQL.
+* [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
