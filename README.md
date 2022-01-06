@@ -118,6 +118,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [pgpyml](https://github.com/Minoro/pgpyml) - (WIP) Use machine learning models written in Python inside PostgreSQL.
 
 ### Migration Tools
+* [Babelfish](https://babelfishpg.org/) - With Babelfish, applications that currently running on SQL Server can now run directly on PostgreSQL with fewer code changes.
 * [sqlserver2pgsql](https://github.com/dalibo/sqlserver2pgsql) - Migration tool to convert a Microsoft SQL Server Database into a PostgreSQL database, as automatically as possible.
 * [db2topg](https://github.com/dalibo/db2topg) - Automated tool for DB2 migration to PostgreSQL, ala ora2pg.
 * [pgtsql](https://bitbucket.org/openscg/pgtsql) - Extension that provides a PostgreSQL procedural language that implements the Transact-SQL language.
