@@ -36,6 +36,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 
 ### Documentation
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/) - PostgreSQL Official Documentation
+* [Parameters Documentation](https://postgresqlco.nf/) - All the documentation and help you need about all the postgresql.conf parameters.
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
