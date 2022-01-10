@@ -2,7 +2,7 @@
 A curated list of awesome PostgreSQL software, libraries, tools and resources, forked from dhamaniasad/awesome-postgres
 
 ## Contents
-
+- [Documentation](#documentation)
 - [High-Availability](#high-availability)
 - [Backups](#backups)
 - [GUI](#gui)
@@ -33,6 +33,9 @@ Contributions are most welcome!
 This list is just getting started, please contribute to make it super awesome.
 
 Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgres/blob/master/CONTRIBUTING.md).
+
+### Documentation
+* [PostgreSQL Documentation](https://www.postgresql.org/docs/) - PostgreSQL Official Documentation
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
