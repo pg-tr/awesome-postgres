@@ -208,6 +208,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [PostgresPro Blog in Habr.com](https://habr.com/en/company/postgrespro/) - Postgrespro PostgreSQL company Blog in habr.com
 * [Crunchydata Blog](https://blog.crunchydata.com/blog) - Crunchydata company Blog
 * [Data Egret](https://dataegret.com/news-blog/) Data Egret News & Blog
+* [MigOps](https://www.migops.com/blog/) - Postgres Migration Expertise Company Blog
 
 ### Articles
 * [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
