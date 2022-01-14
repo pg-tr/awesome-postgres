@@ -3,16 +3,17 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 
 ## Contents
 - [Documentation](#documentation)
-- [High-Availability](#high-availability)
-- [Backups](#backups)
+- [Management Tools](#management-tools)
 - [GUI](#gui)
 - [Distributions and Server](#distributions-and-server)
-- [CLI](#cli)
 - [Monitoring](#monitoring)
-- [Extensions](#extensions)
-- [Migration tools](#migration-tools)
+- [High-Availability](#high-availability)
+- [Backups](#backups)
 - [Optimization](#optimization)
 - [Utilities](#utilities)
+- [CLI](#cli)
+- [Extensions](#extensions)
+- [Migration tools](#migration-tools)
 - [Language bindings](#language-bindings)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
@@ -38,6 +39,9 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/) - PostgreSQL Official Documentation
 * [Parameters Documentation](https://postgresqlco.nf/) - All the documentation and help you need about all the postgresql.conf parameters.
 
+### Management Tools
+* [Temboard](https://temboard.readthedocs.io/) - temBoard is a powerful management tool for PostgreSQL. You can use it to monitor, optimize or configure multiple PostgreSQL instances.
+* 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 * [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
