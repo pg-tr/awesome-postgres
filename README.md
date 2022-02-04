@@ -124,6 +124,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [PG_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 * [pgpyml](https://github.com/Minoro/pgpyml) - (WIP) Use machine learning models written in Python inside PostgreSQL.
+* [Transparent Data Encryption](https://www.cybertec-postgresql.com/en/products/postgresql-transparent-data-encryption/) - Transparent Data Encryption (TDE) is a CYBERTEC patch to PostgreSQL.
 
 ### Migration Tools
 * [Babelfish](https://babelfishpg.org/) - With Babelfish, applications that currently running on SQL Server can now run directly on PostgreSQL with fewer code changes.
