@@ -5,6 +5,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Documentation](#documentation)
 - [Management Tools](#management-tools)
 - [GUI](#gui)
+- [Dashboard](#dashboard)
 - [Distributions and Server](#distributions-and-server)
 - [Monitoring](#monitoring)
 - [High-Availability](#high-availability)
@@ -43,6 +44,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 ### Management Tools
 * [Temboard](https://temboard.readthedocs.io/) - temBoard is a powerful management tool for PostgreSQL. You can use it to monitor, optimize or configure multiple PostgreSQL instances.
 * [Elephant Shed](https://elephant-shed.io/) - PostgreSQL and everything that goes with it, from backup to monitoring and reporting.
+
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 * [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
@@ -69,7 +71,6 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [DBeaver](http://dbeaver.jkiss.org) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
-* [Metabase](http://www.metabase.com) - Simple dashboards, charts and query tool for PostgreSQL.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](http://pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
@@ -83,6 +84,10 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is a useful and reliable tool designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL.
 * [PostgreSQL Management Tool VS Code Extension](https://github.com/Borvik/vscode-postgres) - PostgreSQL extension for vscode providing explorer, highlighting, diagnostics, and intellisense by Borvik
 * [PostgreSQL VS Code Extension by Microsoft](https://github.com/Microsoft/vscode-postgresql) - PostgreSQL extension for VSCODE by Microsoft
+
+### Dashboard
+* [Metabase](http://www.metabase.com) - Simple dashboards, charts and query tool for PostgreSQL.
+* [Redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. 
 
 ### Distributions and Server
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
