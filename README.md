@@ -38,6 +38,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 ### Documentation
 * [PostgreSQL Documentation](https://www.postgresql.org/docs/) - PostgreSQL Official Documentation
 * [Parameters Documentation](https://postgresqlco.nf/) - All the documentation and help you need about all the postgresql.conf parameters.
+* [pgPedia](https://pgpedia.info/) - An encyclopedia (work-in-progress) of things PostgreSQL-related. And some hacks.
 
 ### Management Tools
 * [Temboard](https://temboard.readthedocs.io/) - temBoard is a powerful management tool for PostgreSQL. You can use it to monitor, optimize or configure multiple PostgreSQL instances.
