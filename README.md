@@ -44,6 +44,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 ### Management Tools
 * [Temboard](https://temboard.readthedocs.io/) - temBoard is a powerful management tool for PostgreSQL. You can use it to monitor, optimize or configure multiple PostgreSQL instances.
 * [Elephant Shed](https://elephant-shed.io/) - PostgreSQL and everything that goes with it, from backup to monitoring and reporting.
+* [Postgres workspace](https://docs.alnoda.org/postgres-workspace/) - Containerized environment to interact, manage and administer PostgreSQL database.
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
