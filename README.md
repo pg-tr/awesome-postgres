@@ -178,6 +178,9 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [pgagroal](https://agroal.github.io/pgagroal/) -  High-performance connection pool for PostgreSQL
 * [odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 
+# Maintanence
+* [pg_repack](https://github.com/reorg/pg_repack) - Reorganize tables in PostgreSQL databases with minimal locks
+
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
