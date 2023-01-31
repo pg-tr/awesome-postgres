@@ -180,6 +180,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 
 # Maintanence
 * [pg_repack](https://github.com/reorg/pg_repack) - Reorganize tables in PostgreSQL databases with minimal locks
+* [pg_ivm](https://github.com/sraoss/pg_ivm) - The pg_ivm module provides Incremental View Maintenance (IVM) feature for PostgreSQL.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
