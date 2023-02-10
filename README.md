@@ -252,6 +252,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Cybertech](https://www.cybertec-postgresql.com/en/postgresql-overview/solutions-who-uses-postgresql/)
 * [2ndQuadrant](https://www.2ndquadrant.com/en/postgresql/who-uses-postgresql/)
 * [Learn PostgreSQL](https://github.com/dwyl/learn-postgresql/issues/31)
+* [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
 
 ### PostgreSQL Forks
 * [PostgreSQL Derivative Databases](https://wiki.postgresql.org/wiki/PostgreSQL_derived_databases)
