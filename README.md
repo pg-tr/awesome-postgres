@@ -98,6 +98,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [Greenplum Database](http://greenplum.org/) - The World's First Open Source Massively Parallel Data Warehouse.
 * [PipelineDB](https://www.pipelinedb.com/) - The Streaming SQL Database.
 * [BigSQL](https://www.bigsql.org/) -  Postgresql by BigSQL. The most complete and developer-friendly distribution of the world's most advanced open source database.
+* [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
 
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
