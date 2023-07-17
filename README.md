@@ -9,6 +9,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, f
 - [Distributions and Server](#distributions-and-server)
 - [Monitoring](#monitoring)
 - [High-Availability](#high-availability)
+- [Poolers](#poolers)
 - [Backups](#backups)
 - [Optimization](#optimization)
 - [Utilities](#utilities)
@@ -56,6 +57,12 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [PAF](http://dalibo.github.io/PAF/) - PostgreSQL Automatic Failover High-Availibility for Postgres, based on Pacemaker and Corosync.
 * [Governer](https://github.com/compose/governor) - Runners to orchestrate a high-availability PostgreSQL.
 * [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+
+### Poolers
+* [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL.
+* [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
+* [pgagroal](https://agroal.github.io/pgagroal/) -  High-performance connection pool for PostgreSQL
+* [odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
@@ -161,24 +168,19 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [pg\_activity](https://github.com/julmon/pg_activity) - top like application for PostgreSQL server activity monitoring.
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software).
 * [pgbadger](https://github.com/dalibo/pgbadger) - Fast PostgreSQL Log Analyzer.
-* [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL.
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends.
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats.
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
 * [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
-* [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
 * [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-* [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 * [ZSON](https://github.com/afiskon/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replication system.
 * [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - Use LDAP permissions in PostgreSQL
-* [pgagroal](https://agroal.github.io/pgagroal/) -  High-performance connection pool for PostgreSQL
-* [odyssey](https://github.com/yandex/odyssey) - Scalable PostgreSQL connection pooler
 
 # Maintanence
 * [pg_repack](https://github.com/reorg/pg_repack) - Reorganize tables in PostgreSQL databases with minimal locks
