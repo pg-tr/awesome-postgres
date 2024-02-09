@@ -162,6 +162,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 
 ### Utilities
 * [apgdiff](http://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
+* [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
