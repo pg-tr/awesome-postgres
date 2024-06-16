@@ -92,6 +92,7 @@ Check out the [Contributing Guidelines](https://github.com/pg-tr/awesome-postgre
 * [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is a useful and reliable tool designed for web developers using the popular MySQL server, Microsoft SQL databases and PostgreSQL.
 * [PostgreSQL Management Tool VS Code Extension](https://github.com/Borvik/vscode-postgres) - PostgreSQL extension for vscode providing explorer, highlighting, diagnostics, and intellisense by Borvik
 * [PostgreSQL VS Code Extension by Microsoft](https://github.com/Microsoft/vscode-postgresql) - PostgreSQL extension for VSCODE by Microsoft
+* [pg](https://github.com/datawan-labs/pg) - Browser PostgreSQL, no server, just client and pglite (postgresql wasm)
 
 ### Dashboard
 * [Metabase](http://www.metabase.com) - Simple dashboards, charts and query tool for PostgreSQL.
